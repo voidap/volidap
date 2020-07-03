@@ -3,7 +3,7 @@ import vk_api,random,requests,glob,time,json
 from vk_api.longpoll import VkLongPoll, VkEventType, VkChatEventType
 from threading import Thread
 from vk_api.longpoll import VkLongPoll, VkEventType, VkChatEventType
-tkn = "fe58536077d31aea58ce32023fe4788de2bd1ae00cb4870177b026abd9059574cc1fc8aad667002c255b2"#токен бота
+tkn = "gt28554067d31aea58ce32023fe4788de2bd1ae00cb48701789026abd9059574cc1fc8aad667002c255b2"#токен бота
 idvk = 400945113#айди бота
 ignorelist = []#игнор пользователей
 conf = [599246827]#игнор бесед
